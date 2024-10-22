@@ -12,8 +12,8 @@
     "path":"folders/Objetos.yy",
   },
   "parentObjectId":{
-    "name":"oItens",
-    "path":"objects/oItens/oItens.yy",
+    "name":"oRcrux",
+    "path":"objects/oRcrux/oRcrux.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -37,8 +37,5 @@
     "path":"sprites/sCroche/sCroche.yy",
   },
   "spriteMaskId":null,
-  "tags":[
-    "itens",
-  ],
   "visible":true,
 }

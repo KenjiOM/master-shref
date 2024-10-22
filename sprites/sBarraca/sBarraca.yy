@@ -63,7 +63,7 @@
     },
     "name":"sBarraca",
     "playback":1,
-    "playbackSpeed":0.83,
+    "playbackSpeed":1.66,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
